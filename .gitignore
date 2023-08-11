@@ -1,0 +1,8 @@
+# Folder config file
+[Dd]esktop.ini
+
+# User-specific stuff
+.idea/
+
+# Virtualenv
+venv/
